@@ -1,7 +1,7 @@
 {
   "name": "ons-talbi-portfolio",
   "version": "0.1.0",
-"homepage": "https://talbions41.github.io/talb-ions",
+  "homepage": "https://talbions41.github.io/talb-ions",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
