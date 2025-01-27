@@ -8,7 +8,7 @@ export const Bio = {
     "As a passionate graduate with a bachelor's degree in Business Information Systems, I have consolidated my skills through practical experiences in banking institutions, internships, and computer science training. I am distinguished by my rigor, proven competencies, and versatility. My journey has enabled me to acquire solid expertise in information systems management, business needs analysis, and the implementation of innovative technological solutions.",
   github: "https://github.com/talbions41/",
   resume:
-    "https://drive.google.com/file/d/1kR6enCouwrz2LyzMsRXZ4RfYZYrqCipo/view?usp=drive_link",
+    "public/resume.pdf",
   linkedin: "https://www.linkedin.com/in/ons-talbi-33a761307/",
   facebook: "https://www.facebook.com/Ons-Talbi/",
 };
