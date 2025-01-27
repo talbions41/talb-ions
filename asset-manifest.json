@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/talb-ions/static/css/main.bf538fe7.css",
-    "main.js": "/talb-ions/static/js/main.71e70cfa.js",
+    "main.js": "/talb-ions/static/js/main.0c77fc63.js",
     "static/media/onstalbi.jfif": "/talb-ions/static/media/onstalbi.973106ba375941a98f8b.jfif",
     "index.html": "/talb-ions/index.html",
     "main.bf538fe7.css.map": "/talb-ions/static/css/main.bf538fe7.css.map",
-    "main.71e70cfa.js.map": "/talb-ions/static/js/main.71e70cfa.js.map"
+    "main.0c77fc63.js.map": "/talb-ions/static/js/main.0c77fc63.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.71e70cfa.js"
+    "static/js/main.0c77fc63.js"
   ]
 }
